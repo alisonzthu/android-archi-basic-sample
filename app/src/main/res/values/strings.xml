@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BasicSample</string>
+    <string name="persistence_sample">Persistence sample</string>
 </resources>
